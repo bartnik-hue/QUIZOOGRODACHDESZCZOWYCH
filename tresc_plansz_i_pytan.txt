@@ -1,0 +1,303 @@
+================================================================================
+QUIZ O OGRODACH DESZCZOWYCH - KOMPLETNY ZESTAW TREŚCI PLANSZ I PYTAŃ
+================================================================================
+
+--------------------------------------------------------------------------------
+1. PLANSZA STARTOWA
+--------------------------------------------------------------------------------
+Etykieta górna: QUIZ O OGRODACH DESZCZOWYCH
+Nagłówek główny: Sprawdź swoją wiedzę!
+Podtytuł / informacja: 27 pytań
+Przycisk: START >
+Stopka / partnerzy:
+- Fundusze Europejskie dla Lubelskiego
+- Rzeczpospolita Polska
+- Dofinansowane przez Unię Europejską
+- lubelskie Smakuj życie!
+
+
+--------------------------------------------------------------------------------
+2. PLANSZE INFORMACJI ZWROTNEJ PO ODPOWIEDZI
+--------------------------------------------------------------------------------
+A) DOBRA ODPOWIEDŹ:
+   Ikona: Zielony znacznik (ptaszek / checkmark)
+   Nagłówek: DOBRA ODPOWIEDŹ!
+   Podtytuł: Brawo! Tak trzymaj.
+   Przycisk: Następne pytanie >
+
+B) ZŁA ODPOWIEDŹ:
+   Ikona: Czerwony krzyżyk (X)
+   Nagłówek: NIESTETY, POMYŁKA!
+   Podtytuł: Spróbuj ponownie przy następnym pytaniu.
+   Przycisk: Następne pytanie >
+
+
+--------------------------------------------------------------------------------
+3. PLANSZE PUNKTACJI (PROGI PUNKTOWE)
+--------------------------------------------------------------------------------
+PRZEDZIAŁ 1 (0 - 5 PUNKTÓW):
+- Tytuł poziomu: Początkujący odkrywca
+- Opis: To dopiero początek! Każda kropla wiedzy się liczy.
+- Podpis: Dziękujemy za udział w quizie
+
+PRZEDZIAŁ 2 (6 - 10 PUNKTÓW):
+- Tytuł poziomu: Tropiciel deszczu
+- Opis: Coraz lepiej! Wiesz już sporo o wodzie i retencji.
+- Podpis: Dziękujemy za udział w quizie
+
+PRZEDZIAŁ 3 (11 - 16 PUNKTÓW):
+- Tytuł poziomu: Przyjaciel ogrodu
+- Opis: Dobry wynik! Ogród deszczowy nie ma przed Tobą wielu tajemnic.
+- Podpis: Dziękujemy za udział w quizie
+
+PRZEDZIAŁ 4 (17 - 22 PUNKTÓW):
+- Tytuł poziomu: Ekspert retencji
+- Opis: Świetny wynik! Naprawdę dobrze znasz ogrody deszczowe.
+- Podpis: Dziękujemy za udział w quizie
+
+PRZEDZIAŁ 5 (23 - 27 PUNKTÓW):
+- Tytuł poziomu: Mistrz ogrodu deszczowego
+- Opis: Brawo! Doskonale znasz zasady działania ogrodu deszczowego.
+- Podpis: Dziękujemy za udział w quizie
+
+
+--------------------------------------------------------------------------------
+4. PLANSZA KOŃCOWA
+--------------------------------------------------------------------------------
+Etykieta górna: QUIZ O OGRODACH DESZCZOWYCH
+Nagłówek główny: Dziękujemy za udział!
+Podtytuł: Każda kropla ma znaczenie.
+Przycisk: Zakończ / Rozwiąż ponownie
+Stopka / partnerzy:
+- Fundusze Europejskie dla Lubelskiego
+- Rzeczpospolita Polska
+- Dofinansowane przez Unię Europejską
+- lubelskie Smakuj życie!
+
+
+--------------------------------------------------------------------------------
+5. BAZA PYTAŃ I ODPOWIEDZI (PYTANIA 1 - 27)
+--------------------------------------------------------------------------------
+
+PYTANIE 1:
+Pytanie: Jak nazywamy sytuację, gdy woda zamiast spłynąć do rury, zostaje w ogrodzie i powoli wsiąka w grunt?
+A: Ewakuacja
+B: Produkcja
+C: Retencja
+Poprawna odpowiedź: C
+
+--------------------------------------------------------------------------------
+PYTANIE 2:
+Pytanie: Do czego służy rurka bezpieczeństwa w ogrodzie deszczowym w pojemniku lub skrzyni?
+A: Do wypływu nawozu dla roślin
+B: Do odprowadzenia nadmiaru wody przy bardzo silnym deszczu
+C: Do podlewania kwiatów u sąsiada
+D: Jako zjeżdżalnia dla biedronek
+Poprawna odpowiedź: B
+
+--------------------------------------------------------------------------------
+PYTANIE 3:
+Pytanie: Dlaczego w ogrodzie deszczowym warto sadzić rośliny o długich korzeniach?
+A: Bo długie korzenie są smaczniejsze dla kretów
+B: Bo korzenie tworzą kanaliki, którymi woda szybciej dociera w głąb ziemi
+C: Żeby roślina mogła pobierać wodę z ogródka sąsiada
+D: Żeby roślina trzymała się ziemi podczas huraganu
+Poprawna odpowiedź: B
+
+--------------------------------------------------------------------------------
+PYTANIE 4:
+Pytanie: Gdzie najlepiej skierować wodę z rynny, jeśli chcemy mieć ogród deszczowy?
+A: Do ogrodu deszczowego, najlepiej przez kamienie lub żwir
+B: Pod fundamenty domu
+C: Na asfaltową ulicę przed domem
+Poprawna odpowiedź: A
+
+--------------------------------------------------------------------------------
+PYTANIE 5:
+Pytanie: Jakie rośliny najlepiej „pracują” w ogrodach deszczowych?
+A: Tylko sztuczne kwiaty z plastiku
+B: Rośliny, które nie znoszą wody
+C: Rodzime byliny, trawy i rośliny łąkowe znoszące okresową wilgoć
+D: Marchewki i ziemniaki
+Poprawna odpowiedź: C
+
+--------------------------------------------------------------------------------
+PYTANIE 6:
+Pytanie: Dlaczego ogrody deszczowe są dobre dla owadów?
+A: Bo owady lubią pływać w głębokiej wodzie
+B: Bo dają pokarm i schronienie wielu pożytecznym żyjątkom
+C: Bo woda w nich zawsze jest lodowata
+Poprawna odpowiedź: B
+
+--------------------------------------------------------------------------------
+PYTANIE 7:
+Pytanie: Czy ogród deszczowy może pomóc, gdy latem w mieście jest bardzo gorąco?
+A: Nie, bo rośliny tylko zabierają miejsce
+B: Tak, bo można się w nim wykąpać jak w basenie
+C: Tak, bo rośliny parują wodę i pomagają obniżać temperaturę
+D: Nie, słońce go spali
+Poprawna odpowiedź: C
+
+--------------------------------------------------------------------------------
+PYTANIE 8:
+Pytanie: Kiedy ogród deszczowy najlepiej wykonuje swoją pracę?
+A: Gdy świeci najmocniejsze słońce
+B: Podczas intensywnych opadów deszczu
+C: Podczas bardzo mroźnej zimy
+D: Podczas długiej suszy
+Poprawna odpowiedź: B
+
+--------------------------------------------------------------------------------
+PYTANIE 9:
+Pytanie: Jaki jest główny cel zakładania ogrodu deszczowego?
+A: Zbieranie i wykorzystywanie wody opadowej w miejscu jej opadu
+B: Hodowla rzadkich ryb słodkowodnych
+C: Szybsze odprowadzanie wody do kanalizacji
+D: Miejsce kąpieli dla zwierząt domowych
+Poprawna odpowiedź: A
+
+--------------------------------------------------------------------------------
+PYTANIE 10:
+Pytanie: Gdzie najczęściej lokalizuje się ogrody deszczowe?
+A: Wyłącznie w pełnym słońcu
+B: W pobliżu rur spustowych i miejsc spływu deszczówki
+C: W najwyższym punkcie działki
+Poprawna odpowiedź: B
+
+--------------------------------------------------------------------------------
+PYTANIE 11:
+Pytanie: Czy ogród deszczowy pomaga w walce z suszą?
+A: Tak, bo zatrzymuje wodę w glebie zamiast ją szybko odprowadzać
+B: Tak, bo przyciąga chmury deszczowe
+C: Nie, nie ma żadnego wpływu
+D: Poprawne są odpowiedzi A i B
+Poprawna odpowiedź: A
+
+--------------------------------------------------------------------------------
+PYTANIE 12:
+Pytanie: Dlaczego ogród deszczowy nie jest tym samym co oczko wodne lub staw?
+A: Bo ogród deszczowy buduje się na dachu
+B: Bo w ogrodzie deszczowym woda jest słona
+C: Oczko wodne zwykle zatrzymuje wodę na stałe, a ogród deszczowy przepuszcza ją do podłoża
+D: Bo w ogrodzie deszczowym nie sadzi się roślin
+Poprawna odpowiedź: C
+
+--------------------------------------------------------------------------------
+PYTANIE 13:
+Pytanie: Po co kładziemy małe kamienie w miejscu dopływu wody do ogrodu deszczowego?
+A: Żeby strumień z rynny nie wypłukiwał ziemi i roślin
+B: Żeby rośliny były niższe
+C: Żeby ziemia nie uciekła podczas wiatru
+Poprawna odpowiedź: A
+
+--------------------------------------------------------------------------------
+PYTANIE 14:
+Pytanie: Skąd najczęściej przypływa woda do ogrodu deszczowego?
+A: Z rur spustowych i rynien z dachów
+B: Z kranu w kuchni
+C: Z butelek z wodą mineralną
+Poprawna odpowiedź: A
+
+--------------------------------------------------------------------------------
+PYTANIE 15:
+Pytanie: Jakie rośliny najlepiej czują się w ogrodzie deszczowym?
+A: Takie, które znoszą czasem mokre, a czasem suche warunki
+B: Kaktusy z pustyni
+C: Rośliny bez korzeni
+Poprawna odpowiedź: A
+
+--------------------------------------------------------------------------------
+PYTANIE 16:
+Pytanie: Co to znaczy, że ogród deszczowy „czyści” wodę?
+A: Ziemia, piasek i korzenie działają jak naturalny filtr
+B: W ogrodzie stoi pralka, która pierze wodę
+C: Woda staje się pachnąca
+Poprawna odpowiedź: A
+
+--------------------------------------------------------------------------------
+PYTANIE 17:
+Pytanie: Dlaczego nie robimy ogrodu deszczowego na bardzo stromej skarpie?
+A: Bo woda spłynie zbyt szybko, zamiast wsiąkać
+B: Bo rośliny mają lęk wysokości
+C: Bo skarpa jest zbyt blisko słońca
+Poprawna odpowiedź: A
+
+--------------------------------------------------------------------------------
+PYTANIE 18:
+Pytanie: Po co pod roślinami sypie się piasek i żwir?
+A: Żeby budować zamki z piasku
+B: Bo pomagają przepuszczać i oczyszczać wodę
+C: Żeby ziemia była bardzo miękka
+Poprawna odpowiedź: B
+
+--------------------------------------------------------------------------------
+PYTANIE 19:
+Pytanie: Czy ogrody deszczowe pomagają, gdy jest upalnie?
+A: Tak, rośliny oddają parę wodną i chłodzą powietrze
+B: Nie, ponieważ nic nie robią
+C: Tak, ponieważ działają jak klimatyzator z prądem
+Poprawna odpowiedź: A
+
+--------------------------------------------------------------------------------
+PYTANIE 20:
+Pytanie: Z czego składa się przepuszczalne dno ogrodu deszczowego?
+A: Z warstw dobrej ziemi, piasku i żwiru
+B: Z grubego betonu
+C: Z warstwy, która nie przepuszcza wody
+Poprawna odpowiedź: A
+
+--------------------------------------------------------------------------------
+PYTANIE 21:
+Pytanie: Co jest potrzebne, żeby założyć własny miniogród deszczowy?
+A: Gotowy zestaw ze sklepu z zabawkami
+B: Pomoc dorosłych, kilka roślin, kamienie i dobre chęci
+C: Czekanie, aż sam wyrośnie w domu
+Poprawna odpowiedź: B
+
+--------------------------------------------------------------------------------
+PYTANIE 22:
+Pytanie: Jaki kształt powinien mieć środek ogrodu deszczowego, żeby zebrać dużo wody?
+A: Wypukły jak mała górka
+B: Wklęsły jak płytka miska
+C: Płaski jak ściana
+Poprawna odpowiedź: B
+
+--------------------------------------------------------------------------------
+PYTANIE 23:
+Pytanie: Co warto położyć tam, gdzie woda wypływa z rynny na ziemię?
+A: Warstwę kamieni, która rozprasza strumień wody
+B: Kilka kartek papieru
+C: Cienki materiał
+Poprawna odpowiedź: A
+
+--------------------------------------------------------------------------------
+PYTANIE 24:
+Pytanie: Kiedy najlepiej widać, jak ogród deszczowy „pracuje”?
+A: W trakcie lub tuż po dużym deszczu
+B: W środku nocy
+C: Gdy jest wielka susza
+Poprawna odpowiedź: A
+
+--------------------------------------------------------------------------------
+PYTANIE 25:
+Pytanie: Co oznacza słowo „retencja”?
+A: Jazdę na rowerze pod górkę
+B: Zatrzymywanie i magazynowanie wody
+C: Przesuszony teren
+Poprawna odpowiedź: B
+
+--------------------------------------------------------------------------------
+PYTANIE 26:
+Pytanie: Skąd bierze się zanieczyszczona woda, którą ogród deszczowy może oczyścić?
+A: Deszcz spłukuje pył, osady i zanieczyszczenia z dachów, chodników i ulic
+B: Wlewane są do niej ścieki
+C: Ryby ją brudzą
+Poprawna odpowiedź: A
+
+--------------------------------------------------------------------------------
+PYTANIE 27:
+Pytanie: Czym różni się roślina wodna od rośliny do ogrodu deszczowego?
+A: Roślina wodna rośnie stale w wodzie, a roślina do ogrodu deszczowego znosi też okresy suszy
+B: Niczym — to zawsze to samo
+C: Rośliny deszczowe mają parasole
+Poprawna odpowiedź: A

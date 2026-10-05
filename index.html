@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title>Quiz o Ogrodach Deszczowych</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body oncontextmenu="return false;">
+
+  <div id="kiosk-app">
+    <!-- Animated Video Background (Muted) -->
+    <video id="bg-video" class="bg-video" autoplay loop muted playsinline poster="assets/bg_main.png">
+      <source src="assets/loopbg_main.mp4" type="video/mp4">
+    </video>
+
+    <!-- Background Audio Soundtrack (bgsound.mp3) -->
+    <audio id="bg-audio" src="assets/bgsound.mp3" autoplay loop preload="auto"></audio>
+
+    <!-- Sound Effects: good & wrong answers -->
+    <audio id="sfx-good" src="assets/good.mp3" preload="auto"></audio>
+    <audio id="sfx-wrong" src="assets/wrong.mp3" preload="auto"></audio>
+
+
+    <!-- Idle Timeout Notice (1-minute inactivity) -->
+    <div id="idle-warning">Brak aktywności. Powrót do początku za <span id="idle-seconds">10</span>s</div>
+
+    <!-- ========================================== -->
+    <!-- 1. START SCREEN                           -->
+    <!-- ========================================== -->
+    <section id="screen-start" class="screen active">
+      <div class="kiosk-right-frame frame-with-sponsor">
+        <div class="tag-pill">Quiz o ogrodach deszczowych</div>
+        <h1>Sprawdź swoją wiedzę!</h1>
+        <div class="subtitle">27 pytań</div>
+        <button id="btn-start-quiz" class="btn-start-hero">
+          <svg viewBox="0 0 24 24"><path d="M17 8C8 10 5.9 16.17 3.82 21.34L5.71 22l1-2.3A4.49 4.49 0 0 0 8 20C19 20 22 3 22 3c-1 2-8 2.25-13 3.25S2 11.5 2 13.5s1.75 3.75 1.75 3.75C7 8 17 8 17 8z"/></svg>
+          <span>START &gt;</span>
+        </button>
+      </div>
+
+      <!-- Sponsors Bar glued to bottom edge across full width -->
+      <div class="sponsors-bar-bottom">
+        <img src="assets/sponsors.png" alt="Sponsorzy: Fundusze Europejskie dla Lubelskiego, Rzeczpospolita Polska, Unia Europejska, Lubelskie Smakuj Życie">
+      </div>
+    </section>
+
+    <!-- ========================================== -->
+    <!-- 2. QUESTION SCREEN                        -->
+    <!-- ========================================== -->
+    <section id="screen-question" class="screen">
+      <div class="kiosk-right-frame frame-full-height">
+        <div class="question-top-row">
+          <div class="tag-pill">Quiz o ogrodach deszczowych</div>
+          <div class="question-num-circle" id="q-current-num">1</div>
+        </div>
+
+        <div class="question-text-area">
+          <h2 id="q-text" class="question-title">Pytanie...</h2>
+        </div>
+
+        <div id="options-container" class="options-list">
+          <!-- Dynamiczne opcje A, B, C, (D) -->
+        </div>
+
+        <div class="question-bottom-bar">
+          <div id="q-bottom-hint" class="question-hint">Wybierz jedną odpowiedź.</div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ========================================== -->
+    <!-- 3. FEEDBACK SCREEN (DOBRA / ZŁA ODP)      -->
+    <!-- ========================================== -->
+    <section id="screen-feedback" class="screen">
+      <div class="kiosk-right-frame frame-full-height">
+        <div class="tag-pill">Quiz o ogrodach deszczowych</div>
+
+        <!-- Grafika zamiast tekstu: dobraodpowiedz.png / zlaodpowiedz.png -->
+        <div class="feedback-graphic-wrapper">
+          <img id="feedback-img" class="feedback-graphic" src="assets/dobraodpowiedz.png" alt="Informacja o odpowiedzi">
+        </div>
+
+        <div id="feedback-explanation" class="feedback-info-box" style="display: none;"></div>
+
+        <button id="btn-next-question" class="btn-start-hero" style="font-size: clamp(20px, 1.8vw, 28px); padding: 14px 48px; min-height: 64px;">
+          <span>Następne pytanie &gt;</span>
+        </button>
+      </div>
+    </section>
+
+    <!-- ========================================== -->
+    <!-- 4. SCORE SCREEN                           -->
+    <!-- ========================================== -->
+    <section id="screen-score" class="screen">
+      <div class="kiosk-right-frame frame-full-height">
+        <div class="tag-pill">Twój wynik</div>
+        <div id="score-main-points" class="score-main-points">17–22 punktów</div>
+        <div id="score-exact-count" class="score-exact-count">Twój wynik: 20 / 27 punktów</div>
+        <h2 id="score-tier-title" class="score-tier-title">Ekspert retencji</h2>
+        <p id="score-tier-desc" class="score-tier-desc">Świetny wynik! Naprawdę dobrze znasz ogrody deszczowe.</p>
+        
+        <div class="score-leaf-divider">
+          <svg viewBox="0 0 24 24"><path d="M17 8C8 10 5.9 16.17 3.82 21.34L5.71 22l1-2.3A4.49 4.49 0 0 0 8 20C19 20 22 3 22 3c-1 2-8 2.25-13 3.25S2 11.5 2 13.5s1.75 3.75 1.75 3.75C7 8 17 8 17 8z"/></svg>
+        </div>
+
+        <div id="score-footer-text" class="score-footer-text">Dziękujemy za udział w quizie</div>
+
+        <button id="btn-score-continue" class="btn-start-hero" style="font-size: clamp(20px, 1.8vw, 28px); padding: 14px 48px; min-height: 64px;">
+          <span>Dalej &gt;</span>
+        </button>
+      </div>
+    </section>
+
+    <!-- ========================================== -->
+    <!-- 5. END SCREEN                             -->
+    <!-- ========================================== -->
+    <section id="screen-end" class="screen">
+      <div class="kiosk-right-frame frame-with-sponsor">
+        <div class="tag-pill">Quiz o ogrodach deszczowych</div>
+        <h1>Dziękujemy za udział!</h1>
+
+        <!-- Grafika Każda kropla ma znaczenie -->
+        <img src="assets/kazdakroplamaznaczenie.png" class="end-quote-graphic" alt="Każda kropla ma znaczenie.">
+
+        <button id="btn-restart-quiz" class="btn-start-hero">
+          <svg viewBox="0 0 24 24"><path d="M17 8C8 10 5.9 16.17 3.82 21.34L5.71 22l1-2.3A4.49 4.49 0 0 0 8 20C19 20 22 3 22 3c-1 2-8 2.25-13 3.25S2 11.5 2 13.5s1.75 3.75 1.75 3.75C7 8 17 8 17 8z"/></svg>
+          <span>Rozwiąż ponownie &gt;</span>
+        </button>
+      </div>
+
+      <!-- Sponsors Bar glued to bottom edge across full width -->
+      <div class="sponsors-bar-bottom">
+        <img src="assets/sponsors.png" alt="Sponsorzy: Fundusze Europejskie dla Lubelskiego, Rzeczpospolita Polska, Unia Europejska, Lubelskie Smakuj Życie">
+      </div>
+    </section>
+
+  </div>
+
+  <script src="questions.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
